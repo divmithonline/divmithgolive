@@ -104,9 +104,9 @@ window.SITE_CONFIG = {
     uppercase: true,         // false = normal capitalisation (email stays lowercase)
     aboutUppercase: false,   // true = about me text in capitals, false = shown exactly as you type it
     barWidth: "90%",         // width of the email hover box (use "100%" for edge to edge)
-    fontSize: 19,            // about me text (px)
+    fontSize: 20,            // about me text (px)
     nameSize: 22,            // your name (px)
-    emailSize: 19,           // email (px)
+    emailSize: 18,           // email (px)
     footerSize: 13,          // footer text size, the copyright line (px)
     iconSize: 20,          // social icon size in px (null = same as smallSize)
     iconGap: 15,             // space between social icons (px)
