@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://divmith.go-live.me/sitemap.xml
